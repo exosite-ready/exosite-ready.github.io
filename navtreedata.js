@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "Exosite Ready SDK", "index.html", [
+  [ "ExositeReady SDK", "index.html", [
     [ "Tutorial", "exosite_send_http.html", [
       [ "Send data over HTTP", "exosite_send_http.html#http_send", null ]
     ] ],
